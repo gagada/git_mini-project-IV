@@ -11,7 +11,4 @@ Welcome to the 4th Miniproject. We will, once again, practice supervised learnin
 - Flask - building own API
 - Deployment to Cloud (AWS)
 
-Go to the notebook mini-project-IV.ipynb where you can find all instructions.
-**Enjoy!!!**
-
 
